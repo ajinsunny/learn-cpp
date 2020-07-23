@@ -182,6 +182,7 @@ $ ./hello
 
 <br>
 
+
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />
 
 ## Contribution Guidelines
