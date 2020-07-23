@@ -121,7 +121,7 @@ $ ./hello
 
 ## 5. Vectors ##
 
-- [ ] `tokyo.cpp`
+- [x] `tokyo.cpp`
 - [x] [`oddeven.cpp`](5-vectors/oddeven.cpp)
 
 **Whale Talk:**
@@ -142,7 +142,7 @@ $ ./hello
 
 ## 8. References & Pointers ##
 
-- [ ] `pointers.cpp`
+- [x] `pointers.cpp`
 
 **Bleep:**
 
@@ -181,7 +181,6 @@ $ ./hello
 * TBA
 
 <br>
-
 
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />
 
